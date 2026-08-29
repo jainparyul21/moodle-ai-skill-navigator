@@ -55,14 +55,14 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/%236-MOST--STARRED%20MOODLE%20PLUGIN-6C5CE7?style=for-the-badge"
-    alt="#6 most-starred Moodle plugin repository on GitHub"
+    src="https://img.shields.io/badge/%235-MOST--STARRED%20MOODLE%20PLUGIN-6C5CE7?style=for-the-badge"
+    alt="#5 most-starred Moodle plugin repository on GitHub"
     height="36"
   >
 </p>
 
 <p align="center">
-  <strong>🏆 #6 most-starred Moodle plugin repository on GitHub</strong>
+  <strong>🏆 #5 most-starred Moodle plugin repository on GitHub</strong>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ New to open source? Start with a **browser-only micro-contribution**.
 - ✅ One tiny JSON file per issue.
 - ✅ Small first-time-contributor PRs are prioritized.
 
-### 👉 [Browse 2–5 minute issues](https://github.com/Berserk-hub150/moodle-ai-skill-navigator/issues?q=is%3Aissue+is%3Aopen+label%3Amicro-contribution)
+### 👉 [Browse 2-5 minute issues](https://github.com/Berserk-hub150/moodle-ai-skill-navigator/issues?q=is%3Aissue+is%3Aopen+label%3Amicro-contribution)
 
 **Pick an issue → Fork → Create one tiny file → Pull Request → Contributor**
 
