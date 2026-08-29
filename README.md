@@ -24,7 +24,6 @@
 </p>
 
 <!-- MICRO-CONTRIBUTIONS-START -->
-
 <h2 align="center">🏆 GitHub Rankings</h2>
 
 <p align="center">
